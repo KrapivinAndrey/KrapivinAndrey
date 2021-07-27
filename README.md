@@ -1,9 +1,9 @@
 ### Hi there 👋
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thedemoncat&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thedemoncat&hide=TeX&layout=compact)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=krapivinandrey&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krapivinandrey&hide=TeX&layout=compact)
 
 <!--
-**TheDemonCat/TheDemonCat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**KrapivinAndrey/KrapivinAndrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
